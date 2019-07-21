@@ -1,0 +1,16 @@
+# .gitignore
+
+# databases
+*.db
+*.sqlite3
+
+# python cache
+**/__pycache__
+.pytest_cache
+
+# test coverage
+htmlcov
+.coverage
+
+# etc
+TODO.md
