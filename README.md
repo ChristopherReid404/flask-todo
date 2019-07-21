@@ -6,7 +6,7 @@ Simple Todo tracker where you can add/edit/delete tasks.
 
 ## Upgrades
 
-- Currently none
+- CircleCi Testing, only single test
 
 ## Prerequisites
 
